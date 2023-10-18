@@ -30,7 +30,6 @@ This is a final project for ADS509: Text Based Analysis
 
 
 ## Needs of this project
-
 - data exploration/descriptive statistics
 - data processing/cleaning
 - statistical modeling
@@ -79,24 +78,15 @@ This is a final project for ADS509: Text Based Analysis
 
 
 ## Data Pre-Processing
-* SimpleImputer class was used to impute missing column values on a case-by-case basis
-* Boxplots were used to detect outliers - Number of Referrals, Avg Monthly GB Download, Total Refunds, Total Long Distance Charges, Total Revenue
-* Dataset was rebalanced for equal number of Churn and Not Churned customers
+
 
 
 ## Exploratory Data Analysis
 
-Univariate Analysis
-
-Multivariate Analysis
-
 
 
 ## Features Selection
-* Refer to chi-square test in this file
-* Pairwise Correlation
-* Correlation to Target 
-* Test for Column Variance
+
 
 
 ## Modeling & Evaluation
@@ -104,6 +94,4 @@ Multivariate Analysis
 * Decision Tree
 * Naïve Bayes
 * Random Forest
-* K-means
-* CART
-* C5.0
+
