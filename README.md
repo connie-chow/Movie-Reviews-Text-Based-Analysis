@@ -4,7 +4,7 @@ This is a final project for ADS509: Text Based Analysis
 [Business Case Presentation](https://docs.google.com/presentation/d/148sGmTrqkthCvEs_wwvh8I8FSqE4T2kByE2uJKcvSPE/edit?usp=sharing)
 
 
-#### -- Project Status: [Completed]
+#### -- Project Status: [In-Progress]
 
 ## Project Intro
 
@@ -22,7 +22,7 @@ This is a final project for ADS509: Text Based Analysis
 
 ### Technologies
 * Python
-* Pandas, jupyternotebook
+* Pandas
 
 
 ## Project Description
@@ -34,38 +34,6 @@ This is a final project for ADS509: Text Based Analysis
 - data processing/cleaning
 - statistical modeling
 - writeup/reporting
-- presentation
-- voice recordings
-
-## Required Python Packages
-* import pandas as pd
-* import matplotlib
-* import matplotlib.pyplot as plt
-* import numpy as np
-* from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
-* import seaborn as sns
-* from sklearn.experimental import enable_iterative_imputer
-* from sklearn.impute import IterativeImputer
-* from sklearn import linear_model
-* from sklearn.impute import SimpleImputer
-* from sklearn.neighbors import KNeighborsClassifier
-* from collections import defaultdict
-* from scipy import stats
-* from sklearn.cluster import KMeans
-* from pandas.api.types import CategoricalDtype
-* %matplotlib inline
-* from sklearn.ensemble import RandomForestClassifier
-* import statsmodels.api as sm
-* import statsmodels.tools.tools as stattools
-* from sklearn.metrics import confusion_matrix
-* from sklearn.tree import DecisionTreeClassifier, export_graphviz
-* from sklearn.tree import plot_tree
-* import random
-* from sklearn.model_selection import train_test_split
-* from sklearn.naive_bayes import MultinomialNB
-* from sklearn.linear_model import LogisticRegression
-* from sklearn.model_selection import KFold, cross_val_score
-* from sklearn import tree
 
 ## Getting Started
 
@@ -73,25 +41,7 @@ This is a final project for ADS509: Text Based Analysis
 2. add code and push new code into repo. To ensure cohesive code make sure to run all cells prior to upload. 
 3. Use ###### flags for output
 
-## Featured Notebooks/Analysis/Deliverables
-
-
-
-## Data Pre-Processing
-
-
-
-## Exploratory Data Analysis
-
-
-
-## Features Selection
-
-
 
 ## Modeling & Evaluation
-* Logistic Regression
-* Decision Tree
-* Naïve Bayes
-* Random Forest
+
 
