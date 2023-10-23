@@ -26,6 +26,7 @@ The goal of the project is to be able to predict a movie reviewer's rating based
 
 ### Technologies
 * Python
+* nltk package
 * Pandas
 
 
@@ -46,6 +47,7 @@ The goal of the project is to be able to predict a movie reviewer's rating based
 
 ## Modeling
 - Naive Bayes Classification model in nltk package was used to build a classification model for movie review text
+- LinearSVC
 
 ## Modeling Results
 - Words that were most informative for a movie review being good: wonderfully, outstanding, standup, ups...
