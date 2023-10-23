@@ -1,9 +1,9 @@
 # Movie Reviews Prediction Modeling Project
 This is a final project to build a text-based analysis classification model To determine movie review sentiment for ADS 509: Applied Text Mining.
 
-[Business Case Presentation (Business & Executive Audiences)](https://docs.google.com/presentation/d/148sGmTrqkthCvEs_wwvh8I8FSqE4T2kByE2uJKcvSPE/edit?usp=sharing)
+[Business Case Presentation (Business & Executive Audiences)]((https://youtu.be/P_fBrbRDses?feature=shared))
 <br>
-[Technical Presentation (Data Science Audiences)](https://docs.google.com/presentation/d/1ceFUqH39ycUjJNCHokU0Omur2VmzXEG2BoXHk2ruCkM/edit?usp=sharing)
+[Technical Presentation (Data Science Audiences)](https://youtu.be/-a-fDgCOgeI?feature=shared)
 
 #### -- Project Status: [Complete]
 
