@@ -2,6 +2,7 @@
 This is a final project for ADS509: Building a Text Based Analysis Classification Model To Determine Movie Review Sentiment
 
 [Business Case Presentation (Business & Executive Audiences)](https://docs.google.com/presentation/d/148sGmTrqkthCvEs_wwvh8I8FSqE4T2kByE2uJKcvSPE/edit?usp=sharing)
+<br>
 [Technical Presentation (Data Science Audiences)](https://docs.google.com/presentation/d/1ceFUqH39ycUjJNCHokU0Omur2VmzXEG2BoXHk2ruCkM/edit?usp=sharing)
 
 #### -- Project Status: [In-Progress]
