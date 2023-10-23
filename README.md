@@ -3,7 +3,7 @@ This is a final project to build a text-based analysis classification model To d
 
 [Business Case Presentation (Business & Executive Audiences)](https://youtu.be/P_fBrbRDses?feature=shared)
 <br>
-[Technical Presentation (Data Science Audiences)](https://youtu.be/-a-fDgCOgeI?feature=shared)
+[Technical Presentation (Data Science Audiences)](https://youtu.be/fnvcQDAcbcw?feature=shared)
 
 #### -- Project Status: [Complete]
 
